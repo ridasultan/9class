@@ -1,0 +1,13 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    display: inline;
+    margin-right: 10px;
+}
+ul{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 20px;
+}
